@@ -1,6 +1,6 @@
 let printSomething = function() {
-    console.log("Welcome to my application. I am Deeptirtha Mukherjee and a part of FunctionUp Lithium cohort.")
-    return "done"
+    console.log("Welcome to my application. I am Ankit kumar verma and a part of FunctionUp Lithium cohort.")
+    return "Completed"
 }
 
 
